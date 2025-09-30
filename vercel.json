@@ -1,16 +1,7 @@
 {
     "functions": {
         "api/app.py": {
-            "runtime": "vercel-python@1.0.0"
+            "runtime": "vercel-python@3.9"
         }
-    },
-    "builds": [
-        {
-            "src": "api/app.py",
-            "use": "@vercel/python",
-            "config": {
-                "runtime": "python3.9"
-            }
-        }
-    ]
+    }
 }
