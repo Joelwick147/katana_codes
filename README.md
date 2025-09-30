@@ -26,7 +26,7 @@ A simple web application built with Flask that counts the occurrences of vowels 
 
 1.  Clone the repository (if applicable):
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Joelwick147/katana_codes.git
     ```
 2.  Navigate to the project directory:
     ```bash
