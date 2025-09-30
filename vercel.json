@@ -1,7 +1,7 @@
 {
     "functions":{
         "api/app.py":{
-            "runtime":"python 3.8"
+            "runtime":"vercel-python@1.0.0"
         }
     }
 }
